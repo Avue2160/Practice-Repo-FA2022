@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Angela Vue
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Business Law & Something
 
-- Course 3
+- Database 1
 
-- Course 4
+- Entrepreneurial something something
+
+- Intro to Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Food
 
-- Thing 2
+- Sleeping
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- TV shows
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
